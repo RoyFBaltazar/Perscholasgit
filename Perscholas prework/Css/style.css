@@ -1,0 +1,29 @@
+body{
+    background-color: green;
+color: white;}
+h1{
+  font-size: 4em;
+  font-style: georgia;
+}
+nav {
+  font-size: 20pt;
+  position: relative;
+  }
+p{
+  font-size: 14pt;
+  text-align: left;
+
+}
+li{
+  font-style: italic;
+}
+#aboutme{
+  font-family: sans-serif;
+
+}
+img {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+ }
